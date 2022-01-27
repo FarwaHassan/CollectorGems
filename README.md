@@ -1,2 +1,2 @@
 # CollectorGems
-Collector Gems 
+Collector Gems Website with FlexBox and Form Validation
